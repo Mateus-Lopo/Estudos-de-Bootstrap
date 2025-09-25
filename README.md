@@ -1,2 +1,2 @@
-Este repositório foi criado apenas para os meus estudos em Bootstrap
+Este repositório foi criado apenas para os meus estudos em Bootstrap.
 Feito por: Mateus Lopo
